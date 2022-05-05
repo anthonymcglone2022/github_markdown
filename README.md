@@ -1,2 +1,7 @@
-# github_markdown
-Simple repo with a README written with markdown
+# Markdown example
+## An example of a sub-heading
+This is a repo with an initial attempt at markdown
+
+A line break to create some text below the above line. 
+
+
