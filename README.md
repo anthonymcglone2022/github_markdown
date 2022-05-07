@@ -40,5 +40,5 @@ Here's a table with some extra columns that could contain stuff like supported O
 | column1 | column2 | column3 |
 | row | with | colour |
 
-Make some *final* emphasized point about the **project** using bold and italics. --Strikethrough old advice
+Make some *final* emphasized point about the **project** using bold and italics. ~~Strikethrough old advice~~.
 
