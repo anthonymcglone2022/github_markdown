@@ -6,7 +6,7 @@ This is a repo with an initial attempt at markdown.
 
 Here's some code `String variable = null;` in a single sentence.
 
-Here's some blocks of code:
+Here are some blocks of code:
 
 ```html
 <p>This is a HTML paragraph</p>
