@@ -29,6 +29,13 @@ Here's a list with something that could follow the above code as instructions.
      1. itemized list
      2. itemized list 
  
+
 Add in some block quotes to highlight some important point
 > Make sure to run all tests before committing your code
+
+Here's a table with some extra columns that could contain stuff like supported OS versions
+
+| heading1 | heading2 | heading3 |
+| --- | --- | --- |
+| column1 | column2 | column3 |
 
