@@ -25,5 +25,8 @@ Here's some blocks of code:
 let randomNumber = Math.random();
 ```
 
+Here's an image of some code:
+
+![alt text](https://github.com/anthonymcglone2022/github_markdown/blob/main/somecode.png)
 
 
